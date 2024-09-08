@@ -1,4 +1,4 @@
-# What is the 20-20-20-Rule
+# What is the 20-20-20-Rule?
 The 20-20-20 rule is good practice when spending more than 20 minutes at a computer.  
 
 After 20 minutes of looking at a screen, look at something 20 feet away, for 20 seconds.  
